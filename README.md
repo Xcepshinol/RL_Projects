@@ -4,3 +4,4 @@
 3. Snake Game
 4. Cartpole
 5. Mountain Car
+6. Car Racer
